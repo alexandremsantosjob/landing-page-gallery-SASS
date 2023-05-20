@@ -9,7 +9,7 @@
 
 ## Links
 - Live Site URL: <a href=https://alexandremsantosjob.github.io/landing-page-gallery-SASS//> GitHub</a>
-- Aula c/ Matheus Battisti <a href=https://www.youtube.com/@MatheusBattisti//> Youtube</a> 
+- Aula c/ Matheus Battisti: <a href=https://www.youtube.com/@MatheusBattisti//> Youtube</a> 
 
 
 
